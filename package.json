@@ -1,5 +1,5 @@
 {
-  "name": "@p.a/minimask",
+  "name": "@pa/minimask",
   "private": false,
   "version": "0.0.4",
   "description": "Minimal hook for masking input",
