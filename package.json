@@ -16,6 +16,11 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ap-2733/minimask.git"
+  },
+  "homepage": "https://github.com/ap-2733/minimask",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
