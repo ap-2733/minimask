@@ -5,7 +5,7 @@ Extremely mininmal and lightweight (1kb minified and gzipped) React hook that co
 ## Installation
 
 ```bash
-npm install minimask
+npm install @ponom.anton/minimask
 ```
 
 React 19 or later is required as a peer dependency.
